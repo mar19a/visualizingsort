@@ -15,6 +15,7 @@ Quick Sort
 Radix Sort
 Selection Sort
 Shell Sort
+
 How to use the visualizer
 
 The visualizer is easy to use. Simply select the sorting algorithm you want to see from the drop-down menu and specify the size of the array you want to sort. Then click on "Sort" to see the visualization of the sorting process.
