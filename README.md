@@ -22,7 +22,7 @@ The visualizer is easy to use. Simply select the sorting algorithm you want to s
 
 You can also adjust the speed of the visualization using the "Speed" slider. This will allow you to see each step of the sorting process in slow motion or fast-forward.
 
-Bubble Sort
+Bubble Sort:
 
 Bubble Sort is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements and swaps them if they are in the wrong order. The algorithm gets its name from the way smaller elements "bubble" to the top of the list.
 
