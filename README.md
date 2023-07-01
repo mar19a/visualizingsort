@@ -28,7 +28,7 @@ Bubble Sort is a simple sorting algorithm that repeatedly steps through the list
 
 ![](https://github.com/mar19a/visualizingsort/blob/main/img/BubbleSort.gif)
 
-Comb Sort
+Comb Sort:
 
 Comb Sort is an improvement over the Bubble Sort algorithm. It works by comparing elements that are a certain distance apart (known as the "gap") instead of comparing adjacent elements. This helps to eliminate larger elements from the list more quickly.
 
