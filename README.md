@@ -34,7 +34,7 @@ Comb Sort is an improvement over the Bubble Sort algorithm. It works by comparin
 
 ![](https://github.com/mar19a/visualizingsort/blob/main/img/CombSort.gif)
 
-Cycle Sort
+Cycle Sort:
 
 Cycle Sort is an in-place and unstable sorting algorithm. It is based on the idea of cycling through the list and finding the right place for each element by counting the number of elements that are less than it.
 
