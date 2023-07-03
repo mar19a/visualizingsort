@@ -40,7 +40,7 @@ Cycle Sort is an in-place and unstable sorting algorithm. It is based on the ide
 
 ![](https://github.com/mar19a/visualizingsort/blob/main/img/CycleSort.gif)
 
-Heap Sort
+Heap Sort:
 
 Heap Sort is a comparison-based sorting algorithm that uses a binary heap data structure. It is efficient for large data sets and is considered one of the fastest sorting algorithms for medium-sized data sets.
 
