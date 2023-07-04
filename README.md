@@ -46,7 +46,7 @@ Heap Sort is a comparison-based sorting algorithm that uses a binary heap data s
 
 ![](https://github.com/mar19a/visualizingsort/blob/main/img/HeapSort.gif)
 
-Insertion Sort
+Insertion Sort:
 
 Insertion Sort is a simple sorting algorithm that builds the final sorted array one item at a time. It is much less efficient on large data sets than more advanced algorithms such as Quicksort, Heapsort, or Merge sort.
 
