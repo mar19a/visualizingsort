@@ -52,7 +52,7 @@ Insertion Sort is a simple sorting algorithm that builds the final sorted array 
 
 ![](https://github.com/mar19a/visualizingsort/blob/main/img/InsertionSort.gif)
 
-Merge Sort
+Merge Sort:
 
 Merge Sort is a divide-and-conquer sorting algorithm that sorts an array by dividing it into two smaller arrays and then recombining them in sorted order. This is one of the most efficient sorting algorithms, with a time complexity of O(n log n).
 
