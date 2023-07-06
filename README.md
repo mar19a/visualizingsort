@@ -58,7 +58,7 @@ Merge Sort is a divide-and-conquer sorting algorithm that sorts an array by divi
 
 ![](https://github.com/mar19a/visualizingsort/blob/main/img/MergeSort.gif)
 
-Monkey Sort
+Monkey Sort:
 
 Monkey Sort, also known as Bogo Sort, is a randomized sorting algorithm that works by randomly shuffling the elements in the array until they are in the correct order. It is not a practical sorting algorithm, but it is included in this visualizer for demonstration purposes.
 
