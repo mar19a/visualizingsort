@@ -64,7 +64,7 @@ Monkey Sort, also known as Bogo Sort, is a randomized sorting algorithm that wor
 
 ![](https://github.com/mar19a/visualizingsort/blob/main/img/MonkeySort.gif)
 
-Quick Sort
+Quick Sort:
 
 Quick Sort is a divide-and-conquer sorting algorithm that works by selecting a "pivot" element and partitioning the other elements into two sub-arrays, according to whether they are less than or greater than the pivot. The sub-arrays are then sorted recursively. Quick Sort is one of the fastest sorting algorithms for large data sets.
 
