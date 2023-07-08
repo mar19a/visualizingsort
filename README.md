@@ -70,7 +70,7 @@ Quick Sort is a divide-and-conquer sorting algorithm that works by selecting a "
 
 ![](https://github.com/mar19a/visualizingsort/blob/main/img/QuickSort.gif)
 
-Radix Sort
+Radix Sort:
 
 Radix Sort is a non-comparative integer sorting algorithm that sorts data with integer keys by grouping the keys by the individual digits which share the same significant position and value. Radix sort uses counting sort as a subroutine to sort an array of numbers.
 
