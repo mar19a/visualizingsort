@@ -76,7 +76,7 @@ Radix Sort is a non-comparative integer sorting algorithm that sorts data with i
 
 ![](https://github.com/mar19a/visualizingsort/blob/main/img/RadixSort.gif)
 
-Selection Sort
+Selection Sort:
 
 Selection Sort is a simple sorting algorithm that sorts an array by repeatedly finding the minimum element from the unsorted part of the array and swapping it with the first unsorted element. The algorithm continues this process until the entire array is sorted.
 
