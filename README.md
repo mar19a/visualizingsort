@@ -82,7 +82,7 @@ Selection Sort is a simple sorting algorithm that sorts an array by repeatedly f
 
 ![](https://github.com/mar19a/visualizingsort/blob/main/img/SelectionSort.gif)
 
-Shell Sort
+Shell Sort:
 
 Shell Sort is a variant of Insertion Sort that is more efficient for larger data sets. It works by comparing elements that are a certain distance apart, known as the "gap", instead of comparing adjacent elements. As the gap decreases, the list is partially sorted, and eventually, the gap is reduced to 1, resulting in a fully sorted list.
 
