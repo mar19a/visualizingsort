@@ -89,6 +89,6 @@ Shell Sort is a variant of Insertion Sort that is more efficient for larger data
 ![](https://github.com/mar19a/visualizingsort/blob/main/img/ShellSort.gif)
 
 
-We hope that you find this visualizer helpful in understanding and visualizing different sorting algorithms. If you have any suggestions or feedback, please don't hesitate to contact us. Happy sorting!
+We hope that you find this visualizer helpful in understanding and visualizing different sorting algorithms. If you have any suggestions or feedback, please don't hesitate to contact us. 
 
 
