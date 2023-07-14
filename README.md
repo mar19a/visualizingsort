@@ -24,7 +24,7 @@ You can also adjust the speed of the visualization using the "Speed" slider. Thi
 
 Bubble Sort:
 
-Bubble Sort is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements and swaps them if they are in the wrong order. The algorithm gets its name from the way smaller elements "bubble" to the top of the list.
+Bubble sort is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements and swaps them if they are in the wrong order. The algorithm gets its name from the way smaller elements "bubble" to the top of the list.
 
 ![](https://github.com/mar19a/visualizingsort/blob/main/img/BubbleSort.gif)
 
